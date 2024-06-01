@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3AA6B9;
+    flex-direction: column;
+    height: 200vh;
+    padding: 0 60px;
+}
+
+main p{
+    color: #F9F9E0;
+}
